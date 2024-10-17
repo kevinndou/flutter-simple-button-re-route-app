@@ -1,4 +1,4 @@
-# bus_tag
+# bus tag
 
 A new Flutter project.
 
